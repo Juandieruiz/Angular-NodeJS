@@ -99,4 +99,8 @@ JWT Payload
 - Podemos definir las nuestras para almacenar información
 ![image](https://github.com/Juandieruiz/Angular-NodeJS/assets/77864382/97a423b0-7574-4168-b6f3-e733e5edc807)
 
+Debugger Web -> https://jwt.io/
+
+
+
 
